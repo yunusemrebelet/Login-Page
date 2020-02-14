@@ -3,13 +3,13 @@ body {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
-  background: url(bg.jpg) no-repeat;
+  background: url(img/bg.jpg) no-repeat;
   background-size: cover;
 }
 
 .login-box {
-  width: 280px;
   position: absolute;
+  width: 280px;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
